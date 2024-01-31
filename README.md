@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Frontend Software Engineer with experience in JavaScript-based programming. With React being the library I am most familiar with. 
+I am a Frontend Software Engineer with experience in JavaScript-based programming.
 
 ## GitHub Stats
 
