@@ -7,4 +7,4 @@ I am a Frontend Software Engineer with experience in JavaScript-based programmin
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkwah&layout=compact)](https://github.com/dotkwah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkhoa&layout=compact)](https://github.com/dotkhoa/github-readme-stats)
